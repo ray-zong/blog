@@ -69,6 +69,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/ray-zong/ray-zong.github.io.git
+  repo: https://git@github.com/ray-zong/ray-zong.github.io.git
   branch: master
   message: hexo自动提交
