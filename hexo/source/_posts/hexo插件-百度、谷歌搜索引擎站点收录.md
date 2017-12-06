@@ -7,7 +7,7 @@ tags: 网站博客
 ## 插件安装
 
 1.启动命令终端，依次输入下列命令：
-`npm install hexo-generator-sitemap -–save`
+`npm install hexo-generator-sitemap --save`
 `npm install hexo-generator-baidu-sitemap --save`
 
 <!--more-->
